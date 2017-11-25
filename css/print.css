@@ -1,34 +1,26 @@
-
-	
-
 body {
-    font-size: 12pt;
-    color: #333333;
-    font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 12pt;
+	color: #333333;
+	font-family: Georgia, "Times New Roman", Times, serif;
 }
-
 #bgimg {
-display: none;
+	display: none;
 }
-
 #h1 {
-    font-size: 14pt;
-    color: #333333;
+	font-size: 14pt;
+	color: #333333;
 }
-
 h1 {
-    font-size: 14pt;
-    color: #333333;
+	font-size: 14pt;
+	color: #333333;
 }
-
-p{
-			color: 333333; 
-			font-size: 12pt; 
-			
-		}
-		
+p {
+	color: #333333;
+	font-size: 12pt;
+}
 img {
-    display: none;
-}		
-
-a { text-decoration: none; }
+	display: none;
+}
+a {
+	text-decoration: none;
+}
